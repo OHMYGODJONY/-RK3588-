@@ -1,0 +1,5 @@
+/home/orangepi/NPU_code/YoloV5_mulitcam/build/CMakeFiles/nn_process.dir
+/home/orangepi/NPU_code/YoloV5_mulitcam/build/CMakeFiles/config_model.dir
+/home/orangepi/NPU_code/YoloV5_mulitcam/build/CMakeFiles/example_test.dir
+/home/orangepi/NPU_code/YoloV5_mulitcam/build/CMakeFiles/edit_cache.dir
+/home/orangepi/NPU_code/YoloV5_mulitcam/build/CMakeFiles/rebuild_cache.dir

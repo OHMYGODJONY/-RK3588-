@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -g -std=c++14 -lpthread -shared -Wl,-soname,libnn_process.so -o libnn_process.so CMakeFiles/nn_process.dir/src/postprocess.cpp.o

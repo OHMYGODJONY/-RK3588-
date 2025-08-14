@@ -1,0 +1,2 @@
+/usr/bin/ar qc libconfig_model.a CMakeFiles/config_model.dir/src/lua_config.cpp.o
+/usr/bin/ranlib libconfig_model.a

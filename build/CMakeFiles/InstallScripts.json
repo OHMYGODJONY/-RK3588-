@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/orangepi/NPU_code/YoloV5_mulitcam/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
